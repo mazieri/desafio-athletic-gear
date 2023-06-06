@@ -1,3 +1,9 @@
+# Minha "solução"
+
+Para a fácil execução do código, criei esse [gist](https://gist.github.com/mazieri/e851494005a686138d24ad523db22907) que pode ser rodado via [dartpad](https://dartpad.dev/?id=e851494005a686138d24ad523db22907)
+
+---
+> README origial
 # Requisitos
 
 **Utilizar qualquer linguagem de programação.**
